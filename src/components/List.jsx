@@ -47,6 +47,16 @@ class List extends Component {
 </Col>
 </Row>
  </Card>
+ <Card style={{ width: '100% ', marginTop: 10, height:100, borderRadius:10}}>
+ <Card.Grid style={{
+  width: '100%',
+  textAlign: 'left',
+  height:100,
+  borderRadius:10
+}}><h3>Создай свой спор</h3><p style={{
+ color:'grey'
+}}>Спорь с людьми и выигрывай ценные призы!</p></Card.Grid>
+ </Card>
             <DareClosed/>
             <DareProof/>
             <DareSearch/>
