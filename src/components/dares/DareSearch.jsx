@@ -31,7 +31,7 @@ return (
       title="Чихни с открытыми глазами"
       description={
         <div>
-          <Tag color="gold">Выигрыш: 200 У.Е</Tag>{" "}
+          <Tag color="gold">Выигрыш: 200 <Icon type="dollar" /></Tag>{" "}
           <Tag color="blue">Поиск соперника</Tag>
           <p style={{ marginTop: "15px" }}>
             Lorem ipsum dolor sit amet, consectetur adipiscing
